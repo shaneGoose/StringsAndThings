@@ -17,6 +17,7 @@ Suzy and Jeremy are charged with making a greeter app. The greeter app will outp
 
 ## Branches
 
-| Ordinal | Branch Name | Description                  |
-|---------|-------------|------------------------------|
-| 0       | string_0    | Simple String message output |
+| Ordinal | Branch Name | Description                      |
+|---------|-------------|----------------------------------|
+| 0       | string_0    | Simple String message output     |
+| 1       | string_1    | Date placeholder and bye message |
