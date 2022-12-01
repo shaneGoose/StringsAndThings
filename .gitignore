@@ -1,0 +1,5 @@
+# Intellij ignores
+**/*.iml
+.idea
+
+# Other ignores
