@@ -19,7 +19,7 @@ Both Strings should be allocated to their own variables.
 
 ## Expected Output/Behavior
 
-OUTPUT: Hello, (user)!
+OUTPUT: Hello, (user)! It is (date placeholder).
 
 OUTPUT: Goodbye, (user).
 
