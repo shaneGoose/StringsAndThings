@@ -3,17 +3,19 @@ Shane Z. Guzman
 
 This is a practice project. Problems are separated into branches. When you want to start a clean slate or switch problems run: `git reset --hard`. When you want to switch problems, run: `git checkout <branchName>`. The different problems "branchNames" is at the bottom of this page.
 
+**Reference** [Java 8 String](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html?is-external=true)
+
 ## Description
 
-Suzy and Jeremy are charged with making a greeter app. The greeter app will output a message to the user. See branches for continuity.
+
 
 ## Requirements
 
-
+A string message that is output to the user.
 
 ## Expected Output/Behavior
 
-
+OUTPUT: Hello, (user)!
 
 ## Branches
 
