@@ -5,6 +5,8 @@ This is a practice project. Problems are separated into branches. When you want 
 
 **Reference** [Java 8 String](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html?is-external=true)
 
+**Reference** [Java 8 Date](https://docs.oracle.com/javase/8/docs/api/java/util/Date.html)
+
 ## Description
 
 
@@ -19,10 +21,11 @@ This is a practice project. Problems are separated into branches. When you want 
 
 ## Branches
 
-| Ordinal | Branch Name | Description                      |
-|---------|-------------|----------------------------------|
-| 0       | string_0    | Simple String message output     |
-| 1       | string_1    | Date placeholder and bye message |
-| 2       | string_2    | Replace placeholders with dummy  |
-| 3       | string_3    | Format String                    |
-| 4       | string_4    |                                  |
+| Ordinal | Branch Name  | Description                      |
+|---------|--------------|----------------------------------|
+| 0       | string_0     | Simple String message output     |
+| 1       | string_1     | Date placeholder and bye message |
+| 2       | string_2     | Replace placeholders with dummy  |
+| 3       | string_3     | Format String                    |
+| 4       | string_4     |                                  |
+| 5       | string_final | Latest solution                  |
