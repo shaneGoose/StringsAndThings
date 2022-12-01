@@ -1,5 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello, (user)!");
+        String greeting = "Hello, (user)! It is (date placeholder).";
+        String goodbye = "Goodbye, (user).";
+
+        System.out.println(greeting);
+        System.out.println(goodbye);
     }
 }

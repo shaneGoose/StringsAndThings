@@ -7,7 +7,9 @@ This is a practice project. Problems are separated into branches. When you want 
 
 ## Description
 
-Jeremy is responsible for concatenating a date and time string to the greeting message to the user. The app should also output a goodbye message to the user. 
+Suzy now needs to remove the placeholders and replace them with dummy strings. For now, the user will be "Jane" and the date will be "Wed Nov 30 22:10:10 EST 2022".
+
+Use the **[replace](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html#replace-java.lang.CharSequence-java.lang.CharSequence-)** method in the String library.
 
 ## Requirements
 
@@ -15,13 +17,13 @@ Two string message that is output to the user:
 * Greeting message with date and time placeholder
 * A goodbye string
 
-Both Strings should be allocated to their own variables. 
+The user should be set to a new variable and set to "Jane". The date will also be set to a new variable "Wed Nov 30 22:10:10 EST 2022".
 
 ## Expected Output/Behavior
 
-OUTPUT: Hello, (user)! It is (date placeholder).
+OUTPUT: Hello, Jane! It is Wed Nov 30 22:10:10 EST 2022.
 
-OUTPUT: Goodbye, (user).
+OUTPUT: Goodbye, Jane.
 
 ## Branches
 
@@ -29,3 +31,4 @@ OUTPUT: Goodbye, (user).
 |---------|-------------|----------------------------------|
 | 0       | string_0    | Simple String message output     |
 | 1       | string_1    | Date placeholder and bye message |
+| 2       | string_2    | Replace placeholders with dummy  |
