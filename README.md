@@ -5,7 +5,7 @@ This is a practice project. Problems are separated into branches. When you want 
 
 ## Description
 
-
+Suzy and Jeremy are charged with making a greeter app. The greeter app will output a message to the user. See branches for continuity.
 
 ## Requirements
 
