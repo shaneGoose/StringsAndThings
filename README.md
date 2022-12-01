@@ -23,3 +23,4 @@ Suzy and Jeremy are charged with making a greeter app. The greeter app will outp
 | 1       | string_1    | Date placeholder and bye message |
 | 2       | string_2    | Replace placeholders with dummy  |
 | 3       | string_3    | Format String                    |
+| 4       | string_4    |                                  |
