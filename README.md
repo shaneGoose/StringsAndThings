@@ -7,21 +7,15 @@ This is a practice project. Problems are separated into branches. When you want 
 
 ## Description
 
-Suzy found a better way to replace the placeholders in the string using a formatted String and String.format().
 
-Use the **[String.format](https://docs.oracle.com/javase/8/docs/api/java/lang/String.html#format-java.lang.String-java.lang.Object...-)** method in the String library.
-
-HINT: "%s" stands in for a String
 
 ## Requirements
 
-Refactor the greeting and goodbye Strings to use the formatted string.
+
 
 ## Expected Output/Behavior
 
-OUTPUT: Hello, Jane! It is Wed Nov 30 22:10:10 EST 2022.
 
-OUTPUT: Goodbye, Jane.
 
 ## Branches
 
